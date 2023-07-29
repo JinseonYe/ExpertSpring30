@@ -3,9 +3,9 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
 
-<bean id="koreaTire" class="com.example.expertspring30.expert002.KoreaTire"></bean> 
+<bean id="tire" class="com.example.expertspring30.expert002.KoreaTire"></bean>
 
-<bean id="tire" class="com.example.expertspring30.expert002.AmericaTire"></bean>
+<bean id="americaTire" class="com.example.expertspring30.expert002.AmericaTire"></bean>
 
 <bean id="car" class="com.example.expertspring30.expert002.Car"></bean>
 
